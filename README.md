@@ -1,6 +1,6 @@
-### Hey there <img src="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn/tile" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="#">
-  <img align="left" alt="wg1's Discord" width="22px" src="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn/tile" />
+  <img align="left" alt="wg1's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
  
@@ -9,7 +9,7 @@
  
 Hi, I'm wg1, A passionate self-taught Web Developer 🚀 from England
  
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://media3.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif?cid=ecf05e47swgq3xbgkya9j3qx3jbk36n5ek4x95dngix126ma&rid=giphy.gif" width="500" height="320" />
  
 **Talking about Personal Stuffs:**
  
