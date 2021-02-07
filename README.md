@@ -7,16 +7,16 @@
 <br />
 <br>
  
-Hi, I'm [wg1), a passionate self-taught web Developer from England
+Hi, I'm wg1, A passionate self-taught Web Developer 🚀 from England
  
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
 **Talking about Personal Stuffs:**
  
 - 👨🏽‍💻 I’m currently working on a project with 3 pixel!
-- 🌱 I’m currently learning to be a better Web Developer; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [wg1#9999 discord];
+- 🌱 I’m currently learning to be a more sophisticated Web Developer; 
+- 💬 Ask me about anything about what I do, I am happy to help;
+- 📫 How to reach me: wg1#9999 Discord;
  
 **Languages and Tools:**  
  
