@@ -9,7 +9,7 @@
  
 Hi, I'm wg1, A passionate self-taught Web Developer 🚀 from England
  
-  <img align="right" alt="GIF" src="https://media3.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif?cid=ecf05e47swgq3xbgkya9j3qx3jbk36n5ek4x95dngix126ma&rid=giphy.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47mce9e1ogcflc5xetmyvch9cpn95elgmgt08lrcnb&rid=giphy.gif" width="500" height="320" />
  
 **Talking about Personal Stuffs:**
  
