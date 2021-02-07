@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="#">
-  <img align="left" alt="wg1's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="wg1's Discord" width="22px" src="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn/tile" />
 </a>
 
  
