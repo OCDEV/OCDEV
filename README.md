@@ -13,10 +13,10 @@ Hi, I'm wg1, A passionate self-taught Web Developer 🚀 from England
  
 **Talking about Personal Stuffs:**
  
-- 👨🏽‍💻 I’m currently working on a project with 3 pixel!
+- 👨🏽‍💻 I’m currently working on a game project!
 - 🌱 I’m currently learning to be a more sophisticated Web Developer; 
 - 💬 Ask me about anything about what I do, I am happy to help;
-- 📫 How to reach me: wg1#9999 Discord;
+- 📫 How to reach me: wg1#0416 Discord;
  
 **Languages and Tools:**  
  
