@@ -7,7 +7,7 @@
 <br />
 <br>
  
-Hi, I'm wg1, A passionate self-taught Web Developer 🚀 from England
+Hi, I'm Oliver, A passionate self-taught Web Developer 🚀 from England
  
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47mce9e1ogcflc5xetmyvch9cpn95elgmgt08lrcnb&rid=giphy.gif" width="500" height="320" />
  
@@ -16,7 +16,7 @@ Hi, I'm wg1, A passionate self-taught Web Developer 🚀 from England
 - 👨🏽‍💻 I’m currently working on a game project!
 - 🌱 I’m currently learning to be a more sophisticated Web Developer; 
 - 💬 Ask me about anything about what I do, I am happy to help;
-- 📫 How to reach me: wg1#0416 Discord;
+- 📫 How to reach me: OC01#0416 Discord;
  
 **Languages and Tools:**  
  
