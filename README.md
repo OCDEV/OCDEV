@@ -14,7 +14,7 @@ Hi, I'm Oliver, A passionate self-taught Web Developer 🚀 from England
 **Talking about Personal Stuffs:**
  
 - 👨🏽‍💻 I’m currently working on ATT Bot Applications! 
-- 🌱 I’m currently learning to be a more sophisticated Web & Game Developer; 
+- 🌱 I’m currently learning to be a more sophisticated Web Developer; 
 - 💬 Ask me about anything about what I do, I am happy to help;
 - 📫 How to reach me: OC01#0416 Discord;
  
