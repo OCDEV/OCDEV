@@ -7,14 +7,14 @@
 <br />
 <br>
  
-Hi, I'm Oliver, A passionate self-taught Web Developer 🚀 from England
+Hi, I'm Oliver, A passionate self-taught Web & Bot Developer 🚀 from England
  
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47mce9e1ogcflc5xetmyvch9cpn95elgmgt08lrcnb&rid=giphy.gif" width="500" height="320" />
  
 **Talking about Personal Stuffs:**
  
 - 👨🏽‍💻 I’m currently working on ATT Bot Applications! 
-- 🌱 I’m currently learning to be a more sophisticated Web Developer; 
+- 🌱 I’m currently learning to be a more sophisticated Web & Bot Developer; 
 - 💬 Ask me about anything about what I do, I am happy to help;
 - 📫 How to reach me: OC01#0416 Discord;
  
