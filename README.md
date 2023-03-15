@@ -1,11 +1,4 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="#">
-  <img align="left" alt="OC01's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-
- 
-<br />
-<br>
  
 Greetings, I'm Oliver, a passionate self-taught web & bot developer 🚀 from England!
  
