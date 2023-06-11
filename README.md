@@ -6,13 +6,14 @@ Greetings, I'm Oliver, a passionate self-taught web & bot developer 🚀 from En
  
 **Talking about Personal Stuff:**
  
-- 👨🏽‍💻 I’m currently working on Discord bot applications! 
+- 👨🏽‍💻 I’m currently working on Discord bot applications (Town Keeper, and Town Watchmen)! 
 - 🌱 I’m currently learning to be a more sophisticated web & bot developer; 
 - 💬 Ask me about anything about what I do, I am happy to help;
-- 📫 How to reach me: OC01#0416 Discord;
+- 📫 How to reach me: oc0 Discord;
  
 **Languages and Tools:**  
  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></code>
+<code><img height="20" src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png"></code>
