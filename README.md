@@ -1,14 +1,14 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-Greetings, I'm Oliver, a passionate self-taught web & bot developer 🚀 from England!
+Greetings, I'm Oliver, a project manager by profession and self-taught web & bot developer 🚀 from England!
  
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47mce9e1ogcflc5xetmyvch9cpn95elgmgt08lrcnb&rid=giphy.gif" width="500" height="320" />
  
 **Talking about Personal Stuff:**
  
-- 👨🏽‍💻 I’m currently working on Discord bot applications (Town Keeper, and Town Watchmen)! 
+- 👨🏽‍💻 I’m currently working on Discord bot applications (Town Keeper (HOLD), and Town Watchmen)! 
 - 🌱 I’m currently learning to be a more sophisticated web & bot developer; 
-- 💬 Ask me about anything about what I do, I am happy to help;
+- 💬 Ask me about anything about what I do, I am happy to help if I can;
 - 📫 How to reach me: oc0 Discord;
  
 **Languages and Tools:**  
