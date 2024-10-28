@@ -7,9 +7,9 @@ Greetings, I'm Oliver, a project manager by profession and self-taught web & bot
 **Talking about Personal Stuff:**
  
 - 👨🏽‍💻 I’m currently working on Discord bot applications (Town Keeper (HOLD), and Town Watchmen)! 
-- 🌱 I’m currently learning to be a more sophisticated web & bot developer; 
-- 💬 Ask me about anything about what I do, I am happy to help if I can;
-- 📫 How to reach me: oc0 Discord;
+- 🌱 I’m currently learning to be a more sophisticated web & bot hobbyist developer!
+- 💬 Ask me about anything about what I do, I am happy to help if I can!
+- 📫 How to reach me: oc0 on Discord!
  
 **Languages and Tools I've worked with:**  
  
