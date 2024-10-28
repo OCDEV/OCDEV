@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-Greetings, I'm Oliver, a project manager by profession and self-taught web & bot developer 🚀 from England!
+Greetings, I'm Oliver, a project manager by profession and self-taught web & bot developer from England!
  
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47mce9e1ogcflc5xetmyvch9cpn95elgmgt08lrcnb&rid=giphy.gif" width="500" height="320" />
  
